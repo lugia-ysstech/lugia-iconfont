@@ -1,0 +1,22 @@
+{
+  "name": "lugia-iconfont",
+  "version": "1.0.0",
+  "description": "lugia-iconfont",
+  "main": "index.js",
+  "author": "lugia",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "prettier-name": "node script/prettierName.js",
+    "build:symbolsvg": "node script/build.js",
+    "build:css-module": "icon-font-generator svg/**/*.svg -o font-css-module -n lugia-icon -p lugia-icon --csstp ./css-module.hbs --htmltp ./html.hbs",
+    "build:normal": "yarn run  prettier-name && icon-font-generator svg/**/*.svg -o font -n lugia-icon -p lugia-icon --csstp ./css.hbs --htmltp ./html.hbs &&  yarn run build:css-module",
+    "build": "yarn run build:symbolsvg && yarn run build:normal &&  node script/generateIconConfig.js"
+  },
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "glob": "^7.1.2",
+    "icon-font-generator": "^2.1.7",
+    "svgtofont": "^1.6.0"
+  }
+}

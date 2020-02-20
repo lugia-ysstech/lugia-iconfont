@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1025" style="enable-background:new 0 0 1024 1025;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9DA7B2;}
+	.st1{fill:none;stroke:#9DA7B2;stroke-width:72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+</style>
+<path class="st0" d="M924,512.5L924,512.5c19.9,0,36,16.1,36,36v340c0,39.8-32.2,72-72,72H136c-39.8,0-72-32.2-72-72v-752
+	c0-39.8,32.2-72,72-72h341.3c19.9,0,36,16.1,36,36v0c0,19.9-16.1,36-36,36H136v752h752v-340C888,528.6,904.1,512.5,924,512.5z
+	 M960,100.5v192c0,9.5-3.8,18.7-10.5,25.5l-320,320c-4.6,4.6-10.4,7.9-16.7,9.5l-256,64c-2.9,0.7-5.8,1.1-8.7,1.1
+	c-9.4,0-18.6-3.7-25.5-10.5c-8.9-8.9-12.5-21.9-9.5-34.2l64-256c1.6-6.3,4.9-12.1,9.5-16.7l320-320c6.8-6.8,15.9-10.5,25.5-10.5h192
+	C943.9,64.5,960,80.6,960,100.5z M888,136.5H746.9L444.5,438.9l-29.4,117.8l52.8,52.8L585.6,580L888,277.6V136.5z"/>
+</svg>
