@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="42" height="14" x="14" y="10" fill="#F2F2F2" fill-rule="nonzero"/>
+    <rect width="9" height="9" x="20" y="12" fill="#4D68FF" opacity=".3" rx="2"/>
+    <rect width="4" height="7" x="31" y="13" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="36" y="13" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="41" y="13" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="46" y="13" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="42" height="2" x="14" y="8" fill="#E8E8E8" fill-rule="nonzero"/>
+    <path fill="#FFF" d="M27.9312365,14 L26.6952643,14 C26.611199,14 26.5314228,14.034946 26.4799542,14.0947426 L23.5795708,17.595256 L22.5200458,16.2054826 C22.4677194,16.1456861 22.388801,16.1107401 22.3047357,16.1107401 L21.0687635,16.1107401 C21.0112903,16.1107401 20.9795513,16.1705366 21.0147215,16.2109187 L23.3642607,18.9056457 C23.4740603,19.0314514 23.6850813,19.0314514 23.7957387,18.9056457 L27.9852785,14.099402 C28.0204487,14.0597965 27.9887097,14 27.9312365,14 Z"/>
+  </g>
+</svg>

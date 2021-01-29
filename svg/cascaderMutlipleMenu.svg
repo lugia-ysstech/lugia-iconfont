@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd" transform="translate(16 4)">
+    <g fill-rule="nonzero">
+      <rect width="18" height="22" x="1" y="1" fill="#FFF" stroke="#CCC" stroke-width="2" rx="2"/>
+      <rect width="9" height="2" x="4" y="6" fill="#CCC" rx="1"/>
+      <rect width="9" height="2" x="4" y="16" fill="#CCC" rx="1"/>
+      <rect width="9" height="2" x="4" y="11" fill="#CCC" rx="1"/>
+    </g>
+    <g fill-rule="nonzero" transform="translate(21)">
+      <rect width="15" height="22" x="1" y="1" fill="#FFF" stroke="#CCC" stroke-width="2" rx="2"/>
+      <rect width="9" height="2" x="4" y="6" fill="#CCC" rx="1"/>
+      <rect width="9" height="2" x="4" y="16" fill="#CCC" rx="1"/>
+      <rect width="9" height="2" x="4" y="11" fill="#CCC" rx="1"/>
+    </g>
+    <path fill="#A6AAB2" d="M3.39937484,0.5 L0.600625164,0.5 C0.516679718,0.5 0.469806627,0.598118993 0.521793146,0.665104075 L1.92116798,2.46143641 C1.96122317,2.51285453 2.03835071,2.51285453 2.07883202,2.46143641 L3.47820685,0.665104075 C3.53019337,0.598118993 3.48332028,0.5 3.39937484,0.5 Z" transform="rotate(-90 11.5 -2)"/>
+  </g>
+</svg>

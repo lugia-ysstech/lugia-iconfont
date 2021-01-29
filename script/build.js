@@ -2,12 +2,12 @@ const svgtofont = require("svgtofont");
 const path = require("path");
 const pkg = require('../package.json');
 svgtofont({
-  src: path.resolve(process.cwd(), "svg/symbol"), // svg path
+  src: path.resolve(process.cwd(), "svg"), // svg path
   dist: path.resolve(process.cwd(), "font"), // output path
   outSVGPath: true,
   fontName: "lugia-symbol-icon", // font name
   css:true,
-  //outSVGReact: true,
+  // outSVGReact: true,
   // website: {
   //   index: "symbol", // Enum{"font-class", "unicode", "symbol"}
   //   title: "file-icons",

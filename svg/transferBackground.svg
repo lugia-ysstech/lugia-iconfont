@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="17" height="7" x="13" y="4" fill="#E8E8E8" fill-rule="nonzero"/>
+    <rect width="17" height="2" x="13" y="10" fill="#CCC" fill-rule="nonzero"/>
+    <rect width="17" height="7" x="40" y="4" fill="#E8E8E8" fill-rule="nonzero"/>
+    <rect width="17" height="2" x="40" y="10" fill="#CCC" fill-rule="nonzero"/>
+    <path fill="#CCC" fill-rule="nonzero" d="M14 5L14 27 29 27 29 5 14 5zM14 3L29 3C30.1045695 3 31 3.8954305 31 5L31 27C31 28.1045695 30.1045695 29 29 29L14 29C12.8954305 29 12 28.1045695 12 27L12 5C12 3.8954305 12.8954305 3 14 3zM41 5L41 27 56 27 56 5 41 5zM41 3L56 3C57.1045695 3 58 3.8954305 58 5L58 27C58 28.1045695 57.1045695 29 56 29L41 29C39.8954305 29 39 28.1045695 39 27L39 5C39 3.8954305 39.8954305 3 41 3z"/>
+  </g>
+</svg>

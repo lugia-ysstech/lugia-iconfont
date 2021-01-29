@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="22" height="8" x="24" y="12" fill="#4D68FF" fill-rule="nonzero" opacity=".2" rx="1"/>
+    <rect width="13" height="8" x="13" y="12" fill="#4D68FF" fill-rule="nonzero" rx="1"/>
+    <rect width="13" height="8" x="43" y="12" fill="#4D68FF" fill-rule="nonzero" rx="1"/>
+    <rect width="4" height="6" x="30" y="13" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="35" y="13" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="15" y="13" fill="#FFF" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="45" y="13" fill="#FFF" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="20" y="13" fill="#FFF" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="50" y="13" fill="#FFF" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="15" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="30" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="30" y="22" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="45" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="15" y="22" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="45" y="22" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="20" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="35" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="35" y="22" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="50" y="4" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="20" y="22" fill="#747E90" fill-rule="nonzero"/>
+    <rect width="4" height="6" x="50" y="22" fill="#747E90" fill-rule="nonzero"/>
+  </g>
+</svg>
