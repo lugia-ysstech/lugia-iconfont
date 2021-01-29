@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="7" height="7" x="21" y="7" stroke="#CCC" stroke-width="2" rx="2"/>
+    <rect width="9" height="9" x="20" y="17" fill="#4D68FF" rx="2"/>
+    <rect width="4" height="7" x="31" y="7" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="31" y="18" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="36" y="7" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="36" y="18" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="41" y="7" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="41" y="18" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="46" y="7" fill="#A6AAB2" fill-rule="nonzero"/>
+    <rect width="4" height="7" x="46" y="18" fill="#A6AAB2" fill-rule="nonzero"/>
+    <path fill="#FFF" d="M27.9312365,19 L26.6952643,19 C26.611199,19 26.5314228,19.034946 26.4799542,19.0947426 L23.5795708,22.595256 L22.5200458,21.2054826 C22.4677194,21.1456861 22.388801,21.1107401 22.3047357,21.1107401 L21.0687635,21.1107401 C21.0112903,21.1107401 20.9795513,21.1705366 21.0147215,21.2109187 L23.3642607,23.9056457 C23.4740603,24.0314514 23.6850813,24.0314514 23.7957387,23.9056457 L27.9852785,19.099402 C28.0204487,19.0597965 27.9887097,19 27.9312365,19 Z"/>
+  </g>
+</svg>

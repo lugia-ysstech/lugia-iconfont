@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#F22735" font-family="PingFangSC-Semibold, PingFang SC" font-size="10" font-weight="500">
+      <tspan x="21" y="20">！</tspan>
+    </text>
+    <path fill="#F22735" fill-rule="nonzero" d="M17,9 L17,23 L53,23 L53,9 L17,9 Z M17,7 L53,7 C54.1045695,7 55,7.8954305 55,9 L55,23 C55,24.1045695 54.1045695,25 53,25 L17,25 C15.8954305,25 15,24.1045695 15,23 L15,9 C15,7.8954305 15.8954305,7 17,7 Z"/>
+  </g>
+</svg>

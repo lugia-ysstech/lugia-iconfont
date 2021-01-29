@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <rect id="编组-2-a" width="80" height="43" x="0" y="0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#56C22D" fill-opacity=".5" fill-rule="nonzero" stroke="#56C22D" stroke-width="6" d="M91.4375036,14.0119697 L67.194826,44.6426724 L93.8547113,44.6426724 L35.4668876,100.354934 L45.0701686,61.9418103 L24.5232285,61.9418103 L52.21087,14.1215881 L91.4375036,14.0119697 Z"/>
+    <g transform="translate(20 11)">
+      <mask id="编组-2-b" fill="#fff">
+        <use xlink:href="#编组-2-a"/>
+      </mask>
+      <path fill="#A6B3FF" fill-rule="nonzero" stroke="#4D68FF" stroke-width="6" d="M71.4375036,3.0119697 L47.194826,33.6426724 L73.8547113,33.6426724 L15.4668876,89.3549345 L25.0701686,50.9418103 L4.52322847,50.9418103 L32.21087,3.12158814 L71.4375036,3.0119697 Z" mask="url(#编组-2-b)"/>
+    </g>
+    <rect width="119.172" height="119.172" fill="#000" opacity="0"/>
+  </g>
+</svg>

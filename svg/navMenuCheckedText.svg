@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="42" height="2" x="14" y="22" fill="#4D68FF" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 46)"/>
+    <rect width="6" height="10" x="24" y="10" fill="#4D68FF" fill-rule="nonzero"/>
+    <rect width="6" height="10" x="32" y="10" fill="#4D68FF" fill-rule="nonzero"/>
+    <rect width="6" height="10" x="40" y="10" fill="#4D68FF" fill-rule="nonzero"/>
+  </g>
+</svg>

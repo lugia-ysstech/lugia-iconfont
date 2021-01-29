@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" transform="translate(15 5)">
+    <rect width="13" height="8" x="13" y="7" fill="#4D68FF" rx="1"/>
+    <rect width="4" height="6" x="15" y="8" fill="#FFF"/>
+    <rect width="4" height="6" x="20" y="8" fill="#FFF"/>
+    <rect width="4" height="6" y="8" fill="#747E90"/>
+    <rect width="4" height="6" x="30" y="8" fill="#747E90"/>
+    <rect width="4" height="6" x="5" y="8" fill="#747E90"/>
+    <rect width="4" height="6" x="35" y="8" fill="#747E90"/>
+    <rect width="4" height="6" fill="#747E90"/>
+    <rect width="4" height="6" x="15" fill="#747E90"/>
+    <rect width="4" height="6" x="15" y="16" fill="#747E90"/>
+    <rect width="4" height="6" x="30" fill="#747E90"/>
+    <rect width="4" height="6" y="16" fill="#747E90"/>
+    <rect width="4" height="6" x="30" y="16" fill="#747E90"/>
+    <rect width="4" height="6" x="5" fill="#747E90"/>
+    <rect width="4" height="6" x="20" fill="#747E90"/>
+    <rect width="4" height="6" x="20" y="16" fill="#747E90"/>
+    <rect width="4" height="6" x="35" fill="#747E90"/>
+    <rect width="4" height="6" x="5" y="16" fill="#747E90"/>
+    <rect width="4" height="6" x="35" y="16" fill="#747E90"/>
+  </g>
+</svg>

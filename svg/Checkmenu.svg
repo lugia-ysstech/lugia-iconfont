@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#CCC" fill-rule="nonzero" d="M40.3875018,26 L40.3875018,28 L25,28 C23.8954305,28 23,27.1045695 23,26 L23,6 C23,4.8954305 23.8954305,4 25,4 L45,4 C46.1045695,4 47,4.8954305 47,6 L47,18 L45,18 L45,6 L25,6 L25,26 L40.3875018,26 Z"/>
+    <rect width="14" height="2" x="28" y="10" fill="#CCC" fill-rule="nonzero" rx="1"/>
+    <rect width="10" height="2" x="28" y="20" fill="#CCC" fill-rule="nonzero" rx="1"/>
+    <rect width="12" height="2" x="28" y="15" fill="#CCC" fill-rule="nonzero" rx="1"/>
+    <polyline stroke="#4D68FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 21.686 45.361 25 51 19"/>
+  </g>
+</svg>
